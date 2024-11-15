@@ -1,5 +1,5 @@
 # CareerCraft: ATS-Optimized Resume Analyzer using Gemini Model
-#Live:https://ats-optimized-resume-analyzer-0777.streamlit.app/
+## Live:https://ats-optimized-resume-analyzer-0777.streamlit.app/
 CareerCraft, an ATS-Optimized Resume Analyzer is a cutting-edge project designed to revolutionize the job application process using advanced ATS (Applicant Tracking System) technology. This innovative system empowers job seekers by providing insights into their resumes' compatibility with job descriptions, highlighting missing keywords, and offering tailored profile summaries for optimal presentation to potential employers.
 
 
