@@ -17,7 +17,7 @@ For individuals looking to enhance their skills and qualifications, CareerCraft 
 Professionals seeking career advancement opportunities can rely on CareerCraft for strategic guidance. By analyzing resumes and job descriptions, CareerCraft offers insights into potential career trajectories, identifies relevant skills and experiences, and provides personalized recommendations for achieving career goals. This feature helps users navigate their career paths effectively and capitalize on growth opportunities.
 
 ## Technical Architecture
-![ATS](images/icon.png)
+![ATS](images/icon0.png)
 
 
 
